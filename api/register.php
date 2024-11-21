@@ -15,7 +15,7 @@
 
         <?php 
          
-         include("api/config.php");
+         include("config.php");
          if(isset($_POST['submit'])){
             $username = $_POST['username'];
             $email = $_POST['email'];
