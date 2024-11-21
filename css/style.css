@@ -12,7 +12,7 @@ html, body{
 }
 
 .bg-img {
-    background-image: url("Backgron.png");
+    background-image: url("css/Backgron.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
